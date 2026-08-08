@@ -1,0 +1,1 @@
+console.log("Smart College Cloud Portal loaded successfully");
